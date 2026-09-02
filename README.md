@@ -2,6 +2,7 @@
 <img width="1302" height="732" alt="grid" src="https://github.com/user-attachments/assets/a3b97023-4e5a-4aae-afa7-f8cc4b1ffc7c" />
 
 📊 Project Description
+
 The Call Center Performance Analysis project is an interactive, enterprise-grade Business Intelligence solution developed in Power BI to evaluate customer service operations. Utilizing an optimized star-schema data model, this project integrates complex transactional call logs with data models for agents, departments, time periods, and spatial geography. The primary objective of the dashboard is to transform raw call metrics into an intuitive visual platform, enabling management to monitor operational capacity, benchmark employee productivity, and ensure overall alignment with service workflows.
 
 ⚠️ Problem Findings
